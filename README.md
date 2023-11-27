@@ -11,4 +11,4 @@ I'm Giorgi, Web Developer/React Developer.
 
 Feel free to explore my repositories and connect!
 
-![foo]([/url](https://pbs.twimg.com/profile_images/446356636710363136/OYIaJ1KK_400x400.png) "title")
+![foo]([/url](https://pbs.twimg.com/profile_images/446356636710363136/OYIaJ1KK_400x400.png "title")
