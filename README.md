@@ -1,5 +1,3 @@
-### Hi there 👋
-
 I'm Giorgi, Full-Stack Developer.
 
 - 🔭 I’m currently working on building dynamic and responsive web applications.
